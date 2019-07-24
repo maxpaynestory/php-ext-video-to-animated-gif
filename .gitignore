@@ -1,0 +1,6 @@
+.vscode
+nbproject
+*.mp4
+*.gif
+*.o
+*.so
